@@ -35,3 +35,7 @@ for (i in 1:10){
   x = x + i
   }
 print (x)
+
+fun_function <- function(x,y,z){
+    return x*rnorm(1) + y + z
+}
