@@ -22,3 +22,7 @@ k = 1
 
 # this is another change
 x = (3,4,5)
+
+# changing master practice
+
+x = string("John")
