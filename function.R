@@ -24,3 +24,7 @@ k = 1
 x = (3,4,5)
 
 # this is practice random
+if k = 3
+print "this is bad"
+else
+"enjoy"
