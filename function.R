@@ -39,3 +39,7 @@ print (x)
 fun_function <- function(x,y,z){
     return x*rnorm(1) + y + z
 }
+
+another_function <- function(a,b,c){
+    return a+b+c
+}
