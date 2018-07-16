@@ -27,5 +27,4 @@ This is an unordered list;
    }
    ```
 
-
-   
+discard huff can be used to discard the things you did wrong and start from that point again
