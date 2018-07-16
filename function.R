@@ -6,7 +6,7 @@
  }
 
 # add
-for(i = 1:10){
+for(i in 1:10){
 t = i+1
 }
 
@@ -28,3 +28,11 @@ if k = 3
 print "this is bad"
 else
 "enjoy"
+
+# if the new 1 branch
+x =0
+for (i in 1:10){
+  x = x + i
+  print (x)
+}
+x
