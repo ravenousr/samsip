@@ -28,3 +28,10 @@ if k = 3
 print "this is bad"
 else
 "enjoy"
+
+###########
+x =0
+for (i in 1:10){
+  x = x + i
+  }
+print (x)
