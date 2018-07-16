@@ -9,3 +9,8 @@
 for(i = 1:10){
 t = i+1
 }
+
+# this is added
+
+l = 10
+j = 2
