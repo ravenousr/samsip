@@ -24,3 +24,7 @@ k = 1
 x = (3,4,5)
 
 # this is practice random
+for (i =1:5){
+x = i =1
+print('x')
+}
